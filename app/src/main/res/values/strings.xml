@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Zigbee</string>
+    <string name="allow_device_join_net_tips">允许设备入网</string>
+</resources>
